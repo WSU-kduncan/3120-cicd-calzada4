@@ -1,0 +1,9 @@
+{
+  "id": "restart-container",
+  "execute": [
+    "./deplyment/script.sh"
+  ],
+  "match": {
+    "name": "script.sh"
+  }
+}
