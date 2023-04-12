@@ -1,7 +1,7 @@
 {
   "id": "restart-container",
   "execute": [
-    "./deplyment/script.sh"
+    "./deployment/script.sh"
   ],
   "match": {
     "name": "script.sh"
